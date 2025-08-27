@@ -9,7 +9,6 @@ body {
     background-color: #e6f0f8;
 }
 
-/* Header */
 header {
     background-color: #1e3d59;
     color: white;
@@ -32,7 +31,6 @@ header {
     font-weight: 500;
 }
 
-/* Menubar */
 #menubar {
     background-color: #3e5c76;
     height: 50px;
@@ -49,13 +47,11 @@ header {
     font-weight: 500;
 }
 
-/* Layout */
 #middle {
     display: flex;
     margin: 20px;
 }
 
-/* Sidebar */
 #sidebar {
     width: 250px;
     background-color: #5c7c8a;
@@ -64,7 +60,7 @@ header {
     border-radius: 8px;
 }
 
-/* Main Content */
+
 #main-content {
     display: flex;
     gap: 20px;
@@ -72,7 +68,6 @@ header {
     flex-wrap: wrap;
 }
 
-/* Boxes */
 .box {
     background-color: #ffffff;
     padding: 15px;
@@ -101,7 +96,7 @@ header {
     color: #333;
 }
 
-/* Footer */
+
 footer {
     background-color: #d1e8ff;
     color: #333;
